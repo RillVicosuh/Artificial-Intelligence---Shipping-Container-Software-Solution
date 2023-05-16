@@ -1,0 +1,104 @@
+March 25, 2023: 12:16 Test User signs in 
+March 25, 2023: 12:16 Manifest ShipCase2.txt is opened, there are 4 containers on the ship 
+March 25, 2023: 12:16 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 12:16 Bat is onloaded 
+March 25, 2023: 12:16 Super Comment very bad 
+March 25, 2023: 12:16 Finished a cycle. Manifest ShipCase2OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 12:16 The ship has been balanced according to the legal definition of balancing.
+March 25, 2023: 12:16 "Bat" is onloaded
+March 25, 2023: 12:16 Finished a Cycle. Manifest ShipCase2OUTBOUND.txt was written to desktop, and a reminder pop-up to operator to send file was displayed.
+March 25, 2023: 13:27 test signs in 
+March 25, 2023: 13:28 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 13:58 test signs in 
+March 25, 2023: 13:58 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:01 test signs in 
+March 25, 2023: 14:01 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:08 test signs in 
+March 25, 2023: 14:08 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:11 test signs in 
+March 25, 2023: 14:11 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:12 test signs in 
+March 25, 2023: 14:12 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 14:12 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:12 Finished a cycle. Manifest ShipCase1OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:12 Manifest ShipCase2.txt is opened, there are 4 containers on the ship 
+March 25, 2023: 14:12 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:12 Finished a cycle. Manifest ShipCase2OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:12 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:12 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:12 Finished a cycle. Manifest ShipCase3OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:12 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:15 test signs in 
+March 25, 2023: 14:15 test signs out 
+March 25, 2023: 14:15 test signs in 
+March 25, 2023: 14:15 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:16 test signs in 
+March 25, 2023: 14:16 test signs out 
+March 25, 2023: 14:16 est signs in 
+March 25, 2023: 14:16 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:16 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:16 Finished a cycle. Manifest ShipCase3OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:16 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 14:16 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:16 Finished a cycle. Manifest ShipCase1OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:16 Manifest ShipCase2.txt is opened, there are 4 containers on the ship 
+March 25, 2023: 14:16 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 14:16 Finished a cycle. Manifest ShipCase2OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:17 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:17 22 is onloaded 
+March 25, 2023: 14:17  is offloaded 
+March 25, 2023: 14:18 Finished a cycle. Manifest ShipCase3OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 14:18 Manifest ShipCase3.txt is opened, there are 6 containers on the ship 
+March 25, 2023: 14:18  is offloaded 
+March 25, 2023: 14:50 test signs in 
+March 25, 2023: 14:51 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:04 test signs in 
+March 25, 2023: 15:04 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:05 test signs in 
+March 25, 2023: 15:05 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:30 test signs in 
+March 25, 2023: 15:30 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 15:31 test signs in 
+March 25, 2023: 15:31 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 15:32 test signs in 
+March 25, 2023: 15:32 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 15:32 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 15:32 Finished a cycle. Manifest ShipCase1OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 15:32 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:33 test signs in 
+March 25, 2023: 15:33 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:33 test signs in 
+March 25, 2023: 15:34 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:36 test signs in 
+March 25, 2023: 15:36 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:37 Finished a cycle. Manifest ShipCase4OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 15:37 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 15:37 SIFT has been completed.
+March 25, 2023: 15:38 test signs in 
+March 25, 2023: 15:38 Manifest ShipCase4.txt is opened, there are 7 containers on the ship 
+March 25, 2023: 15:40 Finished a cycle. Manifest ShipCase4OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 15:40 Manifest ShipCase1.txt is opened, there are 2 containers on the ship 
+March 25, 2023: 15:40 The ship has been balanced according to the legal definition of balancing. 
+March 25, 2023: 15:40 Finished a cycle. Manifest ShipCase1OUTBOUND.txt was written to desktop, and reminder popup to operator to send file was displayed. 
+March 25, 2023: 16:59 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 16:59 SIFT has been completed.
+March 25, 2023: 17:05 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 17:05 SIFT has been completed.
+March 25, 2023: 17:06 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 17:06 SIFT has been completed.
+March 25, 2023: 17:26 "Dog" is offloaded
+March 25, 2023: 17:38 "Ram" is offloaded
+March 25, 2023: 18:28 test signs in 
+March 25, 2023: 18:32 "Dog" is offloaded
+March 25, 2023: 18:32 "Owl" is offloaded
+March 25, 2023: 18:34 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 18:34 SIFT has been completed.
+March 25, 2023: 18:35 "Dog" is offloaded
+March 25, 2023: 20:14 test signs in 
+March 25, 2023: 21:44 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 21:44 SIFT has been completed.
+March 25, 2023: 21:45 "Dog" is offloaded
+March 25, 2023: 21:46 The ship is not able to be balanced according to the legal definition in its current state. The operator must perform SIFT.
+March 25, 2023: 21:46 SIFT has been completed.
+March 25, 2023: 21:47 "Dog" is offloaded
+March 25, 2023: 21:48 "Dog" is offloaded
