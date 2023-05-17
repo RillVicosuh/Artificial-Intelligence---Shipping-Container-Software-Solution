@@ -41,3 +41,7 @@ Helper functions assist in these operations. For example, `check_unbalance()` de
 ## License
 This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 
+## Suggestions
+For a more complete illustration of the software, please refer to the Complete Project Report pdf file in this repository.
+Here is the software running on sample data: https://www.youtube.com/watch?v=jZE7lWzeHM0 
+
