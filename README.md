@@ -58,14 +58,18 @@ pip install tk
 ### Options to Run:
 
 Option 1. **From Command Line:**
-    * Open a terminal window or command prompt.
-    * Navigate to the "src" directory with the command `cd path_to_src`. Replace "path_to_src" with the actual path to your "src" directory. For example, if your "src" directory is located at "/home/user/projects/src", the command would be `cd /home/user/projects/src`.
-    * Run the "frontend_gui.py" file with the command `python frontend_gui.py` (you may need to use `python3` instead of `python` depending on your Python setup).
+    - Open a terminal window or command prompt.
+    
+    - Navigate to the "src" directory with the command `cd path_to_src`. Replace "path_to_src" with the actual path to your "src" directory. For example, if your "src" directory is located at "/home/user/projects/src", the command would be `cd /home/user/projects/src`.
+    
+    - Run the "frontend_gui.py" file with the command `python frontend_gui.py` (you may need to use `python3` instead of `python` depending on your Python setup).
 
 Option 2. **From an Integrated Development Environment (IDE):**
-    * If you're using an IDE such as PyCharm or Visual Studio Code, you can open the "src" folder in your IDE.
-    * Find the "frontend_gui.py" file in the file explorer of your IDE.
-    * Right click on the "frontend_gui.py" file and choose the option to run the file.
+    - If you're using an IDE such as PyCharm or Visual Studio Code, you can open the "src" folder in your IDE.
+    
+    - Find the "frontend_gui.py" file in the file explorer of your IDE.
+    
+    - Right click on the "frontend_gui.py" file and choose the option to run the file.
     
  Please refer to the **Suggestions** section to see the video on how to follow along with the application.
 
