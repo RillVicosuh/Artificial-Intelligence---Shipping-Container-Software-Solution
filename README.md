@@ -13,7 +13,8 @@ This is a senior design project under the instruction of [Dr.Eamonn Keogh](https
 2. [Prerequisites](#prerequisites)
 3. [How to Use](#how-to-use)
 4. [Understanding the Code](#understanding-the-code)
-5. [License](#license)
+5. [How To Run](#how-to-run)
+6. [License](#license)
 
 ## Overview
 This system is designed for managing container loading, unloading, and balancing operations in a cargo ship. This program contains a backend for the operations handling and a user-friendly frontend that interacts with this backend.
@@ -38,6 +39,37 @@ The main operations are:
 
 Helper functions assist in these operations. For example, `check_unbalance()` determines if the ship is unbalanced, `find_cell()` locates a container within the ship's array, `perform_sift()` executes the SIFT operation, and `move_c()` aids in moving a container from one location to another.
 
+Absolutely, I'd be glad to help with that. Here's a simple "How To Run" guide that you can add to your README file:
+
+---
+
+## How To Run
+
+This Python application includes a front-end graphical user interface (GUI) that interacts with a back-end process. To run the application, follow these steps:
+
+### Prerequisites:
+
+This application requires the tkinter library for the GUI. This is included with most Python installations, but if for some reason it isn't, you can install it using pip:
+
+```bash
+pip install tk
+```
+
+### Options to Run:
+
+Option 1. **From Command Line:**
+    * Open a terminal window or command prompt.
+    * Navigate to the "src" directory with the command `cd path_to_src`. Replace "path_to_src" with the actual path to your "src" directory. For example, if your "src" directory is located at "/home/user/projects/src", the command would be `cd /home/user/projects/src`.
+    * Run the "frontend_gui.py" file with the command `python frontend_gui.py` (you may need to use `python3` instead of `python` depending on your Python setup).
+
+Option 2. **From an Integrated Development Environment (IDE):**
+    * If you're using an IDE such as PyCharm or Visual Studio Code, you can open the "src" folder in your IDE.
+    * Find the "frontend_gui.py" file in the file explorer of your IDE.
+    * Right click on the "frontend_gui.py" file and choose the option to run the file.
+    
+ Please refer to the **Suggestions** section to see the video on how to follow along with the application.
+
+---
 ## License
 This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 
